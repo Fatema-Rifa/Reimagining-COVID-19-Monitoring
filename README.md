@@ -22,12 +22,12 @@ An AI-powered Streamlit application that analyzes patient vital signs (Oxygen le
 ```
 
 ├── app.py                     # Streamlit application script
-├── best\_model.pkl             # Trained classifier
+├── best\_model.pkl            # Trained classifier
 ├── scaler.pkl                 # Feature scaler
 ├── requirements.txt           # Dependency list
 ├── README.md                  # Project documentation
 ├── assets/
-└── dataset/           # Dataset for the app
+└── dataset/                   # Dataset for the app
 
 ````
 
@@ -99,7 +99,9 @@ This application is intended for educational and research purposes only. It is n
 
 ## Contact
 
-**Author**: \[Your Name]
-**GitHub**: [https://github.com/your-username](https://github.com/your-username)
-**Portfolio**: \[your-portfolio-link]
-**Email**: \[[your-email@example.com](mailto:your-email@example.com)]
+| Field      | Information |
+|------------|-------------|
+| **Author**   | Mst. Fatematuj Johora |
+| **GitHub**   | [fatema-rifa](https://github.com/fatema-rifa) |
+| **Portfolio** | [fatema-rifa.github.io](http://fatema-rifa.github.io/) |
+| **Email**     | [mstfatematujjohora246@gmail.com](mailto:mstfatematujjohora246@gmail.com) |
