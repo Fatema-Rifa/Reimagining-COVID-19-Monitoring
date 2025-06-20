@@ -20,7 +20,7 @@ An AI-powered Streamlit application that analyzes patient vital signs (Oxygen le
 ```
 
 ├── app.py                     # Streamlit application script
-├── best\_model.pkl            # Trained classifier
+├── best_model.pkl            # Trained classifier
 ├── scaler.pkl                 # Feature scaler
 ├── requirements.txt           # Dependency list
 ├── README.md                  # Project documentation
