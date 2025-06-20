@@ -14,7 +14,6 @@ An AI-powered Streamlit application that analyzes patient vital signs (Oxygen le
 - Accepts optional symptom and medical history input
 - Built-in medical disclaimer
 
----
 
 ## Project Structure
 
