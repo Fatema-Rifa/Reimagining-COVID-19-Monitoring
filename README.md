@@ -4,7 +4,6 @@ An AI-powered Streamlit application that analyzes patient vital signs (Oxygen le
 
 ![App Screenshot](https://raw.githubusercontent.com/Fatema-Rifa/Reimagining-COVID-19-Monitoring/main/assests/app.png)
 
----
 
 ## Features
 
@@ -31,7 +30,6 @@ An AI-powered Streamlit application that analyzes patient vital signs (Oxygen le
 
 ````
 
----
 
 ## Getting Started
 
@@ -68,7 +66,6 @@ GEMINI_API_KEY = "your-gemini-api-key"
 streamlit run app.py
 ```
 
----
 
 ## Machine Learning Overview
 
@@ -77,7 +74,6 @@ streamlit run app.py
 * Best-performing model selected based on F1 Score
 * Models and scaler exported via `joblib`
 
----
 
 ## Deployment
 
@@ -89,13 +85,11 @@ This app can be deployed on:
 
 Ensure environment variables or `secrets.toml` are properly configured on the platform.
 
----
 
 ## Disclaimer
 
 This application is intended for educational and research purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always consult a licensed healthcare provider for medical concerns.
 
----
 
 ## Contact
 
